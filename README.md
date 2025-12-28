@@ -48,6 +48,8 @@ Desarrollar un modelo basado en la nnU-Net v2, que sea capaz de distinguir entre
 ## Licencia
 Attribution-NonCommercial-ShareAlike 4.0 International
 [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg?style=flat-square&logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 ---
 
