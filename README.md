@@ -7,11 +7,15 @@ Las imágenes contendrán las etiquetas:
 - 1: lesión estable
 - 2: lesión nueva
 
+## Pipeline del proyecto
+<img width="1978" height="1066" alt="pipeline_4" src="https://github.com/user-attachments/assets/97669c36-7968-41fd-b7fe-908f68ac8d1f" />
+
+
 ## Contenido del repositorio
 
 Se incorporan el código para realizar las siguientes tareas:
 
-- Análisis de los datasets empleados ImaginEM (para entrenamiento) y para MSSEG2.
+- Análisis de los datasets empleados ImaginEM (para entrenamiento) y para MSSEG2
 - Separación del dataset ImaginEM en 70% train, 15% validation y 15% test para aplicar la técnica holdout en el entrenamiento de los modelos. (Cross-validation descartada por limitaciones de computaión)
 - Preprocesamiento.
 - Configuraciones personalizadas de los entrenamientos: 20 épocas, 50 épocas, 100 épocas y 250 épocas. 
@@ -36,10 +40,20 @@ Se incorporan el código para realizar las siguientes tareas:
 
 ##  Herramientas empleadas
 
-- nnU-Net v2
-- Python
-- PyTorch
 - Google Colab Pro+
+- Google Drive
+- Python
+- nnU-Net v2
+- PyTorch
+- nibabel
+- NumPy
+- Pandas
+- SciPy
+- scikit-learn
+- Matplotlib
+- giotto-tda
+- CubicalPersistence
+  
 
 ##  Objetivo
 
