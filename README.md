@@ -2,7 +2,7 @@
 
 ## Introducción
 Este repositorio contiene información sobre el desarrollo del proyecto (TFM: "Detección de lesiones nuevas o cambiantes en EM") de segmentación longitudinal de lesiones producidas por la Esclerosis Múltiple, usando la red CNN **nnU-Net v2**.
-Las imágenes contendrán las etiquetas:
+Las imágenes contienen las etiquetas:
 - 0: zona sin lesión
 - 1: lesión estable
 - 2: lesión nueva
