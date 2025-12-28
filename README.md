@@ -29,7 +29,7 @@ El código se encuentra en la carpeta "code" del repositorio. Ahí están los fi
 - 03_custom_train.py--> código para realizar los  entrenamientos personalizados: 20 épocas, (ya viene de base en nnU-Net v2), 50 épocas, 100 épocas y 250 épocas.
 - 04_predicciones_Eval_test_split_MSSEG2.py--> código para realizar las predicciones de los 4 modelos entrenados en el test-split de ImaginEM y en MSSEG2.
 - 05_metrics_custom_train_ImaginEM_MSSEG2.py--> código para obtener las métricas de estos 4 modelos en ImaginEM y en MSSEG2, a nivel voxel-wise, lesion-wise e ID-wise.
-- 06_postprocess_evaluation.py--> código para realizar los 4 postprocesamientos distintos (primero aplicando filtros de volumen en mm3, luego aplicando técnicas basadas en la homología persistente de dimensión 0, $H_{0}$
+- 06_postprocess_evaluation.py--> código para realizar los 4 postprocesamientos distintos (primero aplicando filtros de volumen en $mm^{3}$, luego aplicando técnicas basadas en la homología persistente de dimensión 0, $H_{0}$
 
 ##  Datos utilizados
 
