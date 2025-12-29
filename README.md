@@ -23,7 +23,7 @@ Se incorporan el código para realizar las siguientes tareas:
 - Postprocesamiento: estudio de distintas técnicas (filtrado por volumen y por homología persistente) para reducir falsos positivos mejorando las métricas
 - Resultados y métricas finales.
 
-El código se encuentra en la carpeta "code" del repositorio. Ahí están los ficheros:
+El código se encuentra en la carpeta "code" del repositorio:
 - 01_analisis_estadistico_ImaginEM_MSSEG2.py--> código para realizar el estudio estadístico de los datasets ImaginEM y MSSEG2 de la memoria.
 - 02_HOLDOUT.py--> código para realizar la división 70% train, 15% validation y 15% test sobre ImaginEM, usando los canales FLAIR baseline y FLAIR followup.
 - 03_custom_train.py--> código para realizar los  entrenamientos personalizados: 20 épocas, (ya viene de base en nnU-Net v2), 50 épocas, 100 épocas y 250 épocas.
